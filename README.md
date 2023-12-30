@@ -1,1 +1,1 @@
-# SalonDMSender
+# Discord Token Mass Advertisement
